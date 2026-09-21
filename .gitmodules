@@ -1,0 +1,4 @@
+[submodule "homeworks"]
+	path = homeworks
+	url = git@git.culab.ru:course-projects/production-ml/2026-fall-assignments/a.danyarov.git
+	branch = hw1
